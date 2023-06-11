@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d079e370.css",
-    "main.js": "/static/js/main.91ca7669.js",
-    "index.html": "/index.html",
-    "main.d079e370.css.map": "/static/css/main.d079e370.css.map",
-    "main.91ca7669.js.map": "/static/js/main.91ca7669.js.map"
+    "main.css": "/48-49M-students_data-GHPages/static/css/main.d079e370.css",
+    "main.js": "/48-49M-students_data-GHPages/static/js/main.91ca7669.js",
+    "index.html": "/48-49M-students_data-GHPages/index.html",
+    "main.d079e370.css.map": "/48-49M-students_data-GHPages/static/css/main.d079e370.css.map",
+    "main.91ca7669.js.map": "/48-49M-students_data-GHPages/static/js/main.91ca7669.js.map"
   },
   "entrypoints": [
     "static/css/main.d079e370.css",
